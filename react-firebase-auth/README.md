@@ -5,7 +5,7 @@
 - git checkout commit_hash (go back to a previous state of project ((located in git log))
 - git branch -c name_of_new_branch (create branch)
 - git checkout name_of_branch (move to branch)
-- git push -u origin head (push branch to github)
+- git push -u origin branch_name (push branch to github)
 - git merge name_of_branch (merge name_of_branch to current_branch)
 - git branch -D name_of_branch (delete a branch by name)
 
